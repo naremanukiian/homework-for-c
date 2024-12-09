@@ -2,7 +2,7 @@
 #include <string.h>
 #include <math.h>
 #include <time.h>
-// Ex2: String Operations
+// Ex1: String Operations
 int main() {
     char str1[101], str2[101], copy[101];
     
